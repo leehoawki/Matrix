@@ -5,7 +5,7 @@ Matrix screensaver. Both linux and windows version included.
 
   ./matrix.sh
   
-  ![matrix](matrix.png)
+  ![matrix](Linux/matrix.png)
   
 ## Matrix Screensaver windows version
 Just build and copy the binary file to system32.
