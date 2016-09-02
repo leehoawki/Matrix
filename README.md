@@ -1,5 +1,5 @@
 # Matrix
-Matrix screensaver. Both linux and windows version included.
+Matrix screensaver. Both Linux, MacOS and Windows version included.
 
 ## Matrix Shell Version
 
