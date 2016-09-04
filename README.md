@@ -1,5 +1,5 @@
 # Matrix
-Matrix screensaver. Both Linux, MacOS and Windows version included.
+Matrix screensaver. Both Linux and Windows version included.
 
 ## Matrix Shell Version
 
@@ -9,6 +9,3 @@ Matrix screensaver. Both Linux, MacOS and Windows version included.
   
 ## Windows version
 Just build and copy the binary file to system32.
-
-## MacOS version
-Build and execute the binary file to install it.
